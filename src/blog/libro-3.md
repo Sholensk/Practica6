@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del libro 3
+title: Saga de Ender
 tags: libros
 ---
 

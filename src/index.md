@@ -5,12 +5,6 @@ title: Hola Mundo 11ty
 
 # {{ title }}
 
-- Primavera
-- Verano
-- Otoño
-- Invierno
-
-[Acerca]({{ '/acerca' | url }})
 
 ## Artículos de mi Blog
 

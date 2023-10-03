@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del libro 2
+title: Cronicas de un Asesino de Reyes
 tags: libros
 ---
 
@@ -10,7 +10,10 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem si
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
 
-![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
+![El Nombre del Viento]({{ '/static/img/ElNombreViento.png' | url }})
+![El Temor de un Hombre Sabio]({{ '/static/img/TemorSabio.jpg' | url }})
+![Patrick Rothfuss]({{ '/static/img/PatrickRothfuss.jpg' | url }})
+
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
 
