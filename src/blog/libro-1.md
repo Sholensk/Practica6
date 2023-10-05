@@ -15,6 +15,4 @@ En esta obra; Patrick Senecal logra crear una historia llena de suspenso e intri
 ![El Umbralgit ]({{ '/static/img/ElUmbral.jpg' | url }})
 ![Patrick Senecal]({{ '/static/img/Senecal.jpg' | url }})
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
-
 [Home]({{ '/' | url }})

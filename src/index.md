@@ -23,3 +23,11 @@ title: Hola Mundo 11ty
 - [{{serie.data.title}}]({{ serie.url | url }})
 
 {% endfor %}
+
+### Categoria juegos
+
+{% for juegos in collections.juegos %}
+
+- [{{juegos.data.title}}]({{ juegos.url | url }})
+
+{% endfor %}

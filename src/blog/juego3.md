@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Bioshock
+tags: juegos
+---
+
+El jugador toma el rol de Jack, el protagonista, que tiene como objetivo luchar a través de Rapture, al usar armas y plásmidos (modificaciones genéticas), a fin de completar objetivos. En ocasiones, el jugador puede optar por usar tácticas de sigilo para pasar inadvertido por cámaras de seguridad y torretas.Mientras explora Rapture, el jugador recolecta dinero (representado como dólares), el cual puede ser usado en distintas máquinas expendedoras para conseguir munición, salud, y equipo adicional. Las armas pueden ser mejoradas en "Terminales de mejora de armas", encontradas en diferentes puntos de la ciudad, los cuales le permiten al jugador aplicar una mejora por uso, y luego se desactivan. El jugador además se encontrará con piezas de repuesto que pueden ser usadas en las máquinas "U-Invent" para crear nuevas municiones o artículos de uso. Cámaras, torretas y máquinas expendedoras pueden todas ser pirateadas para provecho del jugador, lo que permite usarlas en contra de enemigos y comprar artículos con descuento. El pirateo requiere que el jugador complete un minijuego similar a Pipe Mania en un tiempo limitado. El jugador recibe una "cámara de investigación" temprano en el juego, permitiéndole tomar fotografías de enemigos para analizarlos, mientras que la fotografía sea de mejor calidad el análisis será más beneficioso. Luego de llevar a cabo suficientes análisis de un enemigo, el jugador es concedido con incremento de daño, plásmidos, y otros regalos para enfrentar al enemigo en futuras batallas.14​ Las "Vita-Cámaras", con paredes de vidrio, también pueden ser encontradas por todo el juego, las cuales no son usadas directamente por el jugador, sino que cuando Jack muere, su cuerpo es reconstituido en la más cercana, lo que permite conservar todas sus posesiones, pero con sólo una porción de su salud total. Con una actualización del juego, el jugador tiene la opción de desactivar el uso de las mismas, así en el caso de que Jack muera, el jugador tendría que reiniciar a partir de una partida guardada.19​ Una batisfera le permite al jugador trasladarse a diferentes zonas de la ciudad, la cual en ciertos puntos del juego puede ser utilizada libremente por el jugador para volver a áreas ya exploradas.
+
+![Bioshock]({{ '/static/img/BioShock.jpg' | url }})
+
+
+[Home]({{ '/' | url }})
